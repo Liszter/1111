@@ -14,7 +14,10 @@
 12.  [html5中的form怎么关闭自动完成？](https://github.com/haizlin/fe-interview/issues/38) ——day 2021-01-09
 13.  [html] [为什么HTML5只需要写   `<!DOCTYPE HTML>`就可以？](https://github.com/haizlin/fe-interview/issues/42) —— day 2021-01-11
 14.  [html] [title与h1的区别、b与strong的区别、i与em的区别？](https://github.com/haizlin/fe-interview/issues/46) —— day 2021-01-12
-15.   [html]你认为table的作用和优缺点是什么呢？—— day 2021-01-15
+15.   [html]你认为table的作用和优缺点是什么呢？—— day 2021-01-12
+16.  [html] [说说你对html中的置换元素和非置换元素的理解](https://github.com/haizlin/fe-interview/issues/62) —— day 2021-01-15
+17.   [html] [请描述HTML元素的显示优先级](https://github.com/haizlin/fe-interview/issues/66) —— day 2021-01-15
+18.   [ html ]怎样在页面上实现一个圆形的可点击区域？ —— day 2021-01-18
 
 # css
 
@@ -33,6 +36,9 @@
 13. [css] [position:fixed;在ios下无效该怎么办？](https://github.com/haizlin/fe-interview/issues/43) —— day 2021-01-11
 14. [css] [style标签写在body前和body后的区别是什么？](https://github.com/haizlin/fe-interview/issues/47) —— day 2021-01-12
 15. 解释下 CSS sprites的原理和优缺点分别是什么？—— day 2021-01-12
+16.   [css] [css的属性content有什么作用呢？有哪些场景可以用到？](https://github.com/haizlin/fe-interview/issues/63) —— day 2021--01-15
+17. [css] [要让Chrome支持小于12px的文字怎么做？](https://github.com/haizlin/fe-interview/issues/67) —— day 2021-01-15
+18. [js] [写一个验证身份证号的方法](https://github.com/haizlin/fe-interview/issues/68) —— day 2021-01-15
 
 # js
 
@@ -66,6 +72,10 @@
 
 15. typeof('abc')和typeof 'abc'都是string, 那么typeof是操作符还是函数？ —— day 2021-01-12
 
+16. [js] ["attribute"和"property"有什么不同？](https://github.com/haizlin/fe-interview/issues/64) —— day 2021-01-15
+
+17. [ js ]写一个方法验证是否为中文 —— day 2021-01-18
+
     
 
 # vue
@@ -80,6 +90,7 @@
 
 # 软技能
 
-1. [网页应用从服务器主动推送到客户端有那些方式？](https://github.com/haizlin/fe-interview/issues/37) —— day 2020-01-08
-2. [ http都有哪些状态码？](https://github.com/haizlin/fe-interview/issues/41) —— day 2020-01-09
-3. Git和svn —— day 2020-01-12
+1. [网页应用从服务器主动推送到客户端有那些方式？](https://github.com/haizlin/fe-interview/issues/37) —— day 2021-01-08
+2. [ http都有哪些状态码？](https://github.com/haizlin/fe-interview/issues/41) —— day 2021-01-09
+3. Git和svn —— day 2021-01-12
+4. [ 软技能 ] 来说说你对重绘和重排的理解，以及如何优化？ —— day 2021-01-18
